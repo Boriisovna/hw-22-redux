@@ -1,25 +1,24 @@
 import logo from './logo.svg';
 import './App.css';
+import PostComponent from './component/Post';
+import AddPost from './component/AddPost';
+import {useSelector} from 'react-redux'
+
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  const posts = useSelector(state => state.posts);
+  
+  return ( 
+    <>
+    <div>
+    <AddPost/>
+      {posts.map((post)=><PostComponent{...post}/>)}
     </div>
+    </>
   );
-}
+
+  }
+
 
 export default App;
