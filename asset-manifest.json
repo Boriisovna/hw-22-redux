@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hw-22-redux/static/css/main.498d96ad.chunk.css",
+    "main.js": "/hw-22-redux/static/js/main.ae641bdb.chunk.js",
+    "main.js.map": "/hw-22-redux/static/js/main.ae641bdb.chunk.js.map",
+    "runtime-main.js": "/hw-22-redux/static/js/runtime-main.c1142260.js",
+    "runtime-main.js.map": "/hw-22-redux/static/js/runtime-main.c1142260.js.map",
+    "static/js/2.3d7c04f2.chunk.js": "/hw-22-redux/static/js/2.3d7c04f2.chunk.js",
+    "static/js/2.3d7c04f2.chunk.js.map": "/hw-22-redux/static/js/2.3d7c04f2.chunk.js.map",
+    "static/js/3.b9593a16.chunk.js": "/hw-22-redux/static/js/3.b9593a16.chunk.js",
+    "static/js/3.b9593a16.chunk.js.map": "/hw-22-redux/static/js/3.b9593a16.chunk.js.map",
+    "index.html": "/hw-22-redux/index.html",
+    "static/css/main.498d96ad.chunk.css.map": "/hw-22-redux/static/css/main.498d96ad.chunk.css.map",
+    "static/js/2.3d7c04f2.chunk.js.LICENSE.txt": "/hw-22-redux/static/js/2.3d7c04f2.chunk.js.LICENSE.txt",
+    "static/media/download.2b3d7bb9.svg": "/hw-22-redux/static/media/download.2b3d7bb9.svg",
+    "static/media/heart.c31d61db.svg": "/hw-22-redux/static/media/heart.c31d61db.svg",
+    "static/media/logo.6ce24c58.svg": "/hw-22-redux/static/media/logo.6ce24c58.svg",
+    "static/media/share.5b2eab5d.svg": "/hw-22-redux/static/media/share.5b2eab5d.svg",
+    "static/media/speech-bubble.bbfaa137.svg": "/hw-22-redux/static/media/speech-bubble.bbfaa137.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1142260.js",
+    "static/js/2.3d7c04f2.chunk.js",
+    "static/css/main.498d96ad.chunk.css",
+    "static/js/main.ae641bdb.chunk.js"
+  ]
+}
